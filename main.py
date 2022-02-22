@@ -19,10 +19,10 @@ digit1 = chr(random.randint(48, 57))
 digit2 = chr(random.randint(48, 57))
 digit3 = chr(random.randint(48, 57))
 digit4 = chr(random.randint(48, 57))
-punch1 = chr(46)
-punch2 = chr(33)
-punch3 = chr(46)
-punch4 = chr(33)
+punch1 = chr(random.randint(33, 46))
+punch2 = chr(random.randint(33, 46))
+punch3 = chr(random.randint(33, 46))
+punch4 = chr(random.randint(33, 46))
 
 # Place-holder to generate more characters here
 
